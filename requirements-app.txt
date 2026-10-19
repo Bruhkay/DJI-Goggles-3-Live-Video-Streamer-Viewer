@@ -1,0 +1,9 @@
+pyusb>=1.2.1
+libusb-package>=1.0.26.1
+av>=14
+PySide6-Essentials>=6.7
+numpy>=1.24
+opencv-python-headless>=4.8
+segno>=1.5
+keyring>=24
+certifi
